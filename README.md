@@ -33,6 +33,11 @@
 
 <img width="557" height="188" alt="image" src="https://github.com/user-attachments/assets/e410870f-f500-4b05-8d69-adcc303d3b60" />
 
+打开之后去deepseek网站获取Api密钥 粘贴即可
+
+<img width="679" height="598" alt="image" src="https://github.com/user-attachments/assets/ecaad2a0-0791-4a64-8cf0-47f3580d316d" />
+
+
 点击Run 看图点击就直接运行了
 
 <img width="429" height="167" alt="image" src="https://github.com/user-attachments/assets/b7ad5cd3-6dea-42df-9f32-7c276a4cedc7" />
