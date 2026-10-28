@@ -13,8 +13,16 @@
 -
 使用步骤：
 
+下载我已经写的python文件
+
+<img width="707" height="331" alt="image" src="https://github.com/user-attachments/assets/5189c34c-e891-4b78-8a54-4f99bb6a5b7f" />
+
+
+先安装python
+
 如果你没有安装python 先去安装！安装完成请看下面步骤
 
+-
 打开CMD 管理员身份运行 粘贴该指令 pip install openai playwright 回车 
 
 接下来再安装 粘贴playwright install chromium 回车
