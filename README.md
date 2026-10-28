@@ -1,4 +1,18 @@
+机器人指令：
+
+切换深度思考（切换到 R1 模型）
+
+切换闲聊模式（切换回 V3 聊天模型）
+
+群里发送（先艾特)  关闭大肥鱼（将会进入静默状态 不会消耗Token）
+
+群里发送（先艾特) 启动大肥鱼（大肥鱼将进入回复模式状态）
+
+<img width="434" height="93" alt="image" src="https://github.com/user-attachments/assets/7cb1989a-2bb4-4c91-922a-a529beb3ddc8" />
+
+-
 使用步骤：
+
 如果你没有安装python 先去安装！安装完成请看下面步骤
 
 打开CMD 管理员身份运行 粘贴该指令 pip install openai playwright 回车 
@@ -22,7 +36,9 @@
 
 接下来选中您的群聊打开聊天框，AI大肥鱼就可以开始接管使用，浏览器最好不要关闭，直接点缩放即可
 
-<img width="1282" height="927" alt="image" src="https://github.com/user-attachments/assets/41807ea3-661c-49cd-a41a-f4baddbf1527" />
+
+<img width="1282" height="927" alt="image" src="https://github.com/user-attachments/assets/8f8f6897-bb79-4f3e-9eff-c1b4c6580b1e" />
 
 
 建议选择好您群聊的文字子频道，以防在主频道 被大肥鱼信息大量轰炸 （人话 嫌吵）
+
