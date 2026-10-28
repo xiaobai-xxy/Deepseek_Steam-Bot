@@ -29,7 +29,7 @@
 
 安装完成后关闭
 
-右键选择64-bit
+选择从git下载的文件 点击右键选择64-bit
 
 <img width="557" height="188" alt="image" src="https://github.com/user-attachments/assets/e410870f-f500-4b05-8d69-adcc303d3b60" />
 
