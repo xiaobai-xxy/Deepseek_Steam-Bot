@@ -1,3 +1,8 @@
+# Deepseek_Steam-Bot
+> [!IMPORTANT]
+> 开源项目，有缘人可以AI后自行维护
+
+
 机器人指令：
 
 切换深度思考（切换到 R1 模型）
@@ -11,7 +16,7 @@
 <img width="434" height="93" alt="image" src="https://github.com/user-attachments/assets/7cb1989a-2bb4-4c91-922a-a529beb3ddc8" />
 
 -
-使用步骤：
+## 使用步骤：
 
 下载我已经写的python文件
 
